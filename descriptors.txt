@@ -1,0 +1,17 @@
+ExactMolWt
+HeavyAtomMolWt
+MolWt
+NumRadicalElectrons
+Chi0
+Chi1
+NHOHCount
+MolLogP
+MolMR
+HeavyAtomCount
+NOCount
+NumHAcceptors
+NumHDonors
+NumHeteroatoms
+NumRotatableBonds
+NumValenceElectrons
+RingCount
